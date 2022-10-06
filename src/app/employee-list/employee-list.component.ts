@@ -23,6 +23,12 @@ export class EmployeeListComponent implements OnInit {
         firstName:"John",
         lastname:"Cana",
         emailID:"canagmail.com"
+      },
+      {
+        id:2,
+        firstName:"Master",
+        lastname:"1",
+        emailID:"c"
       }
 
 
