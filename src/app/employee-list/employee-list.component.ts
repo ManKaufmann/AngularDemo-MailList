@@ -17,8 +17,8 @@ export class EmployeeListComponent implements OnInit {
       firstName:"Manuel",
       lastname:"Kaufmann",
       emailID:"manuel.kaufmann@hotmail.com"
-    }
-    ,{
+    },
+      {
         id:2,
         firstName:"John",
         lastname:"Cana",
@@ -28,44 +28,8 @@ export class EmployeeListComponent implements OnInit {
         id:3,
         firstName:"Test",
         lastname:"Brunch",
-        emailID:"canagmail.com"
-      },
-      {
-        id:4,
-        firstName:"Test2 lokal change",
-        lastname:"delite",
-        emailID:"delite.com"
-      },
-      {
-        id:3,
-        firstName:"Test",
-        lastname:"Brunch",
-        emailID:"canagmail.com"
-      },
-      {
-        id:4,
-        firstName:"Test2 lokal change",
-        lastname:"delite",
-        emailID:"delite.com"
+        emailID:"1"
       }
-      ,{
-        id:2,
-        firstName:"Master",
-        lastname:"1",
-        emailID:"c"
-      }
-
-      ,{
-        id:2,
-        firstName:"Master",
-        lastname:"2 ",
-        emailID:" lokal change"
-      }
-
-
-
-
-
     ]
   }
 
